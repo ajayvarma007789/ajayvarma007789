@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm AJAY VARMA
 A passionate Designer,Web developer and Cyber Security enthusiast from India
 
 ## 🌐 Socials:
