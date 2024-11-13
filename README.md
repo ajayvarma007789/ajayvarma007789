@@ -3,8 +3,8 @@ I'm currently working as Frontend Web Developer and Designer
 
 
 ## 🌐 Socials:
-<a href="https://www.behance.net/ajaydesigns" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="behance"/> </a> 
-<a href="https://linkedin.com/in/AJAY VARMA" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+<a href="https://www.behance.net/ajaydesigns" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="behance"  height="40"/> </a> 
+<a href="https://www.linkedin.com/in/ajay-varma-67b8b0289/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"  height="40"/> </a> 
 
 
 # 💻 Tech Stack:
