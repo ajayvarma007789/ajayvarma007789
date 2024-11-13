@@ -13,5 +13,5 @@ A passionate Designer,Web developer and Cyber Security enthusiast from India
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvarma007789&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![snake_gif](https://github.com/ajayvarma007789/ajayvarma007789/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ajayvarma007789/ajayvarma007789/output/snake.svg" alt="Snake animation" />
 
