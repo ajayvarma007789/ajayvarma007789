@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working as Frontend Web Developer and Designer  
-
+A passionate Designer,Web developer and Cyber Security enthusiast from India
 
 ## 🌐 Socials:
 <a href="https://www.behance.net/ajaydesigns" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="behance"  height="40"/> </a> 
