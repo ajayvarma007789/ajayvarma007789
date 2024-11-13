@@ -3,6 +3,9 @@ I'm currently working as Frontend Web Developer and Designer
 
 
 ## 🌐 Socials:
+<a href="https://behance.net/ajay varma" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="behance"/> </a> 
+<a href="https://linkedin.com/in/AJAY VARMA" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+
 [! Behance (https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ajay varma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AJAY VARMA) 
 
 # 💻 Tech Stack:
